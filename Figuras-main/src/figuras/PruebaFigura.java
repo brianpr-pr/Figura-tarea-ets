@@ -4,7 +4,9 @@ import java.util.Scanner;
 import java.awt.Color;
 
 public class PruebaFigura {
-    // Actividad 1: Extract Constant
+    //Comentario github
+	
+	// Actividad 1: Extract Constant
     private static final String AREA_MSG = "El área es: ";
     
     public static void main(String[] args) {
